@@ -1,0 +1,26 @@
+body{
+  background-color:rgb(105,199, 175);
+}
+h1{
+  background-color:rgb(248, 65, 36);
+  color:rgb(36, 248, 238);
+  font-size:36pt;
+  text-align: center;
+  text-decoration: underline;
+  font-family: 'Oswald', sans-serif;
+
+}
+h2{
+  color:rgb(36, 146, 248);
+  text-decoration: underline;
+}
+h4{
+  color:rgb(248, 65, 36);
+}
+p{
+  color:rgb(72, 58, 119);
+  text-indent: 20px;
+}
+ul{
+  color:rgb(18, 155, 189);
+}
